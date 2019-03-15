@@ -1,6 +1,6 @@
 h2. History
 
-[Reign of the Dragons](Reign of the Dragons ?? - 10 BDE)
+(Reign of the Dragons)[Reign of the Dragons ?? - 10 BDE]
 [Birth of the Weave](The Birth of the Weave - circa 30 BDE)
 [Draconic Fall](The Draconic Fall - 10 BDE - 0 DE)
 [The Capital War](The Capital War - 877 - 886 DE)
