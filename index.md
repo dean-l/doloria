@@ -1,3 +1,9 @@
+---
+layout: default
+title: Main
+nav_order: 1
+---
+
 # History
 
 [Reign of the Dragons ?? - 10 BDE](Reign of the Dragons)
