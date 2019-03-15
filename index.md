@@ -1,42 +1,52 @@
-h2. History
+## History
 
-(Reign of the Dragons)[Reign of the Dragons ?? - 10 BDE]
-[Birth of the Weave](The Birth of the Weave - circa 30 BDE)
-[Draconic Fall](The Draconic Fall - 10 BDE - 0 DE)
-[The Capital War](The Capital War - 877 - 886 DE)
+[Reign of the Dragons ?? - 10 BDE](Reign of the Dragons)
+
+[The Birth of the Weave - circa 30 BDE](Birth of the Weave)
+
+[The Draconic Fall - 10 BDE - 0 DE](Draconic Fall)
+
+[The Capital War - 877 - 886 DE](The Capital War)
 
 Current Time - 1106 DE
+ 
+## Races
 
-h2. Races
+[Humans](Humans)
 
-[Humans]
-[Elves]
-[Gnomes]
+[Elves](Elves)
 
-h2. Places
+[Gnomes](Gnomes)
 
-h3. Northern Doloria
+## Places
 
-[Verum]
-[Thrum]
-[Karandul's Landing]
-[Inverhölm]
-[Bashnya]
-[Rendraw City]
+### Northern Doloria
 
-h3. Eastern Doloria
+[Verum](Verum)
+
+[Thrum](Thrum)
+
+[Karandul's Landing](Karandul's Landing)
+
+[Inverhölm](Inverhölm)
+
+[Bashnya](Bashnya)
+
+[Rendraw City](Rendraw City)
+
+### Eastern Doloria
 
 [Clemensworth]
 [Silvermoon]
 [Syndoril]
 
-h3. Western Doloria
+### Western Doloria
 
 [Galivox]
 [The Iron Mine]The Iron Mine
 [Judgement]Judgement
 
-h3. Southern Doloria
+### Southern Doloria
 
 [Thousand]Thousand
 [Bel'Shanaar]Bel'Shanaar
