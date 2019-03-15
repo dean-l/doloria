@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Misc Elves
-parent: Elves
+parent: elves
 nav_order: 20
 ---
 
