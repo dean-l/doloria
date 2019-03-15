@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/races
 ---
 
-# UI Components
+# Races
 
 Humans, Elves and Gnomes make up the majority of the population of Doloria
 {: .fs-6 .fw-300 }
