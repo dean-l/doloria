@@ -1,4 +1,4 @@
-## History
+# History
 
 [Reign of the Dragons ?? - 10 BDE](Reign of the Dragons)
 
@@ -10,7 +10,7 @@
 
 Current Time - 1106 DE
  
-## Races
+# Races
 
 [Humans](Humans)
 
@@ -18,9 +18,9 @@ Current Time - 1106 DE
 
 [Gnomes](Gnomes)
 
-## Places
+# Places
 
-### Northern Doloria
+## Northern Doloria
 
 [Verum](Verum)
 
@@ -34,58 +34,76 @@ Current Time - 1106 DE
 
 [Rendraw City](Rendraw City)
 
-### Eastern Doloria
+## Eastern Doloria
 
-[Clemensworth]
-[Silvermoon]
-[Syndoril]
+[Clemensworth](Clemensworth)
 
-### Western Doloria
+[Silvermoon](Silvermoon)
 
-[Galivox]
-[The Iron Mine]The Iron Mine
-[Judgement]Judgement
+[Syndoril](Syndoril)
 
-### Southern Doloria
+## Western Doloria
 
-[Thousand]Thousand
-[Bel'Shanaar]Bel'Shanaar
-[Lake Na'ah]
-[Aenarion Range]
+[Galivox](Galivox)
 
-h2. Organisations
+[The Iron Mine](The Iron Mine)
 
-h3. Governmental
+[Judgement](Judgement)
 
-[The Triumvirate]The Triumvirate
-[Dolorian Royal Family]Dolorian Royal Family
-[Vaulted Court]Vaulted Court
+## Southern Doloria
 
-h3. Educational
+[Thousand](Thousand)
 
-[Civis Arcanum]Civis Arcanum
-[The Volkzauber Academy]Volkzauber Academy
+[Bel'Shanaar](Bel'Shanaar)
 
-h3. Law and Order
+[Lake Na'ah](Lake Na'ah)
 
-[The Confederate Guard]The Confederate Guard
-[The Assembly of Tributes]The Assembly of Tributes
-[Arm of Dolor]Arm of Dolor
+[Aenarion Range](Aenarion Range)
 
-h3. Mercenary Groups
+# Organisations
 
-[Maidens of Mercy]Maidens of Mercy
-[The Hounds]
+## Governmental
 
-h2. Religion
+[The Triumvirate](The Triumvirate)
 
-[The Gods]
-[The Outer Planes]The Outer Planes
-[Cult of the Dragons]Cult of the Dragons
-[The Lightkeepers]The Lightkeepers
+[Dolorian Royal Family](Dolorian Royal Family)
 
-h2. Celebrations/Major events
+[Vaulted Court](Vaulted Court)
 
-[Karantuk's Cascade]
-[The Dolorian Unification]Unification Day
-[Day of Dolor]
+## Educational
+
+[Civis Arcanum](Civis Arcanum)
+
+[The Volkzauber Academy](Volkzauber Academy)
+
+## Law and Order
+
+[The Confederate Guard](The Confederate Guard)
+
+[The Assembly of Tributes](The Assembly of Tributes)
+
+[Arm of Dolor](Arm of Dolor)
+
+## Mercenary Groups
+
+[Maidens of Mercy](Maidens of Mercy)
+
+[The Hounds](The Hounds)
+
+# Religion
+
+[The Gods](The Gods)
+
+[The Outer Planes](The Outer Planes)
+
+[Cult of the Dragons](Cult of the Dragons)
+
+[The Lightkeepers](The Lightkeepers)
+
+# Celebrations/Major events
+
+[Karantuk's Cascade](Karantuk's Cascade)
+
+[The Dolorian Unification](Unification Day)
+
+[Day of Dolor](Day of Dolor)
