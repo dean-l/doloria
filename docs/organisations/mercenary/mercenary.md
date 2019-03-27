@@ -6,3 +6,5 @@ has_children: true
 parent: Organisations
 permalink: /docs/organisations/mercenary
 ---
+
+# Mercenary Groups

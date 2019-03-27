@@ -16,19 +16,19 @@ Because of Bashnya’s history of barbarism in its inhabitants, mounting politic
 
 ## NPC’s
 
-* Franklin Acton – Confederate Guard – Little power in the area
+* Franklin Acton – Confederate Guard
 * Captain Alexi Pytrovich – Arm of Dolor – Leader
 * Karmyl Vabul – Female dwarf – Civis Arcanum
 
 ## Taverns
 
-* The Drain – Underground fighting ring – Random Underdark encounter
+* The Drain – Underground fighting ring
 * Aleksei Grekov – Aleksei’s – Human Male
 * The Broken – Jinx – Female halfling
 
 ## Shops
 
 * Silvermoon – Eandil – Wood Elf
-* Bashnya Plate and Chain – Armoursmith – Niyaz Voltrix – Male gnome
-* Home’s Steel – Duxania Home – Female Brass Dragonborn – Weaponsmith
+* Bashnya Plate and Chain – Armoursmith – Niyaz Volltrixibben – Male gnome
+* Home’s Steel – Duxania – Female Brass Dragonborn – Weaponsmith
 * The Silvered Chest – Vasil – Human Male – Volmarrion
