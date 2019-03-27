@@ -39,6 +39,8 @@
       <div class="main-content">
             <div id="mapid" style="height: 600px;"></div>
             <script>
+                
+                    var bounds = [[0,0], [20,30]];
 
                     var mymap = L.map('mapid', {
                         crs: L.CRS.Simple,
@@ -47,7 +49,6 @@
                         maxBoundsViscosity: 1.0
                     }); //.setView([51.505, -0.09], 13);
                 
-                    var bounds = [[0,0], [20,30]];
 	                var image = L.imageOverlay('img/Doloria1.png', bounds).addTo(mymap);
 
 	                mymap.fitBounds(bounds);
