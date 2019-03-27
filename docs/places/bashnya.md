@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bashnya
-parent: Places
+parent: Northern Doloria
 nav_order: 5
 ---
 

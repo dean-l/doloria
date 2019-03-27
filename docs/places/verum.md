@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verum
-parent: Places
+parent: Northern Doloria
 nav_order: 1
 ---
 
