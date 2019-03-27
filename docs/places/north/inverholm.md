@@ -8,6 +8,8 @@ nav_order: 4
 
 # Inverhölm
 
+![](/doloria/img/inverholm.jpg)
+
 Inverhölm is a trade and commerce town at the intersection of the Verum and Muruvian rivers. Travellers come from all over Doloria to deal and bargain for wares, both common, rare and illicit. Inverhölm is the first stop for most looking for those hard to obtain items. Favours and debts holds as much value as gold and silver for the right buyer. Public attempts to control and police the populous by The Triumvirate has been effective for only limited periods of time, as information channels and markets reform quickly.
 
 ## NPC’s

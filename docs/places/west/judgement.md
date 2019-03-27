@@ -8,6 +8,8 @@ nav_order: 1
 
 # Judgement
 
+![](/doloria/img/judgement.jpg)
+
 Judgement stands directly above the The Iron Mine and serves as the judicial centre of the nation, where Orders of Capture are dispached and redeemed and the most dangerous of criminals are tried by The Assembly of Tribunes. It sits in a dry salt basin, miles from the nearest settlement but still boasts a large number of taverns and alehouses, due to the high number of mercenaries doing business. Stationed here are offices for the The Triumvirate, Civis Arcanum, The Confederate Guard, The Hounds and a number of other mercenary groups.
 
 ## NPC’s
