@@ -2,6 +2,7 @@
 layout: default
 title: The Hounds
 parent: Mercenary Groups
+grand_parent: Organisations
 nav_order: 1
 ---
 

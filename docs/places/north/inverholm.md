@@ -2,6 +2,7 @@
 layout: default
 title: Inverhölm
 parent: Northern Doloria
+grand_parent: Places
 nav_order: 4
 ---
 

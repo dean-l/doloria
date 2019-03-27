@@ -2,6 +2,7 @@
 layout: default
 title: The Maidens of Mercy
 parent: Mercenary Groups
+grand_parent: Organisations
 nav_order: 1
 ---
 

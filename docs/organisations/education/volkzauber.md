@@ -2,6 +2,7 @@
 layout: default
 title: Volkszauber Academy
 parent: Education
+grand_parent: Organisations
 nav_order: 1
 ---
 

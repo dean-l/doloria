@@ -2,6 +2,7 @@
 layout: default
 title: Rendraw City
 parent: Northern Doloria
+grand_parent: Places
 nav_order: 6
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: Assembly of Tributes
 parent: Law and Order
+grand_parent: Organisations
 nav_order: 1
 ---
 

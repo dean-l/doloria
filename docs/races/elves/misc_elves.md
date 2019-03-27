@@ -2,6 +2,7 @@
 layout: default
 title: Misc Elves
 parent: Elves
+grand_parent: Races
 nav_order: 20
 ---
 

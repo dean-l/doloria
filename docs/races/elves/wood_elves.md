@@ -2,6 +2,7 @@
 layout: default
 title: Wood Elves
 parent: Elves
+grand_parent: Races
 nav_order: 2
 ---
 

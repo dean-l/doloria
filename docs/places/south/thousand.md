@@ -2,6 +2,7 @@
 layout: default
 title: Thousand
 parent: Southern Doloria
+grand_parent: Places
 nav_order: 1
 ---
 

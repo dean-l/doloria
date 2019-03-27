@@ -2,6 +2,7 @@
 layout: default
 title: Judgement
 parent: Western Doloria
+grand_parent: Places
 nav_order: 1
 ---
 

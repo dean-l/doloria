@@ -2,6 +2,7 @@
 layout: default
 title: Lake Na'ah
 parent: Southern Doloria
+grand_parent: Places
 nav_order: 1
 ---
 

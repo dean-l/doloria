@@ -2,6 +2,7 @@
 layout: default
 title: Confederate Guard
 parent: Law and Order
+grand_parent: Organisations
 nav_order: 1
 ---
 

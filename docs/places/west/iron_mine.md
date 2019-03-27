@@ -2,6 +2,7 @@
 layout: default
 title: The Iron Mine
 parent: Western Doloria
+grand_parent: Places
 nav_order: 1
 ---
 

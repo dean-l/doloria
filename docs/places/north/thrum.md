@@ -2,6 +2,7 @@
 layout: default
 title: Thrum
 parent: Northern Doloria
+grand_parent: Places
 nav_order: 2
 ---
 

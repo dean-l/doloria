@@ -2,6 +2,7 @@
 layout: default
 title: Aenarion Range
 parent: Southern Doloria
+grand_parent: Places
 nav_order: 1
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: Karandul's Landing
 parent: Northern Doloria
+grand_parent: Places
 nav_order: 3
 ---
 

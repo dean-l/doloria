@@ -2,6 +2,7 @@
 layout: default
 title: Civis Arcanum
 parent: Education
+grand_parent: Organisations
 nav_order: 1
 ---
 

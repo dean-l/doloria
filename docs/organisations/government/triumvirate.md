@@ -3,6 +3,7 @@ layout: default
 title: The Triumvirate
 nav_order: 1
 parent: Government
+grand_parent: Organisations
 ---
 
 # The Triumvirate

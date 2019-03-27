@@ -3,6 +3,7 @@ layout: default
 title: The Vaulted Court
 nav_order: 1
 parent: Government
+grand_parent: Organisations
 ---
 
 # The Vaulted Court
