@@ -49,7 +49,7 @@
                         maxBoundsViscosity: 1.0
                     }); //.setView([51.505, -0.09], 13);
                 
-	                var image = L.imageOverlay('img/Doloria1.png', bounds).addTo(mymap);
+	                var image = L.imageOverlay("{{ page.map }}", bounds).addTo(mymap);
 
 	                mymap.fitBounds(bounds);
                 
