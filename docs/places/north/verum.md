@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Verum
-map: 'img/Verum.png'
+map: '/doloria/img/Verum.png'
 parent: Northern Doloria
 grand_parent: Places
 nav_order: 1
