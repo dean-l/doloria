@@ -19,6 +19,7 @@ Verum is the largest settlement in Doloria and the main hub of government, trade
 * Edmund Nashendevallene – Male Gnome – Civis Arcanum
 * Magus Dorothy “Dot” Merriweather – Female Human – Head of Civis Arcanum
 * Duke Chesterfield Clemens – Male Human – Head of The Hounds
+* Ms Rock Hard - Female Dwarf - Potter Extraordinaire
 
 ## Taverns and Entertainment
 
