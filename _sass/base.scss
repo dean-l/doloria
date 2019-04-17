@@ -82,6 +82,10 @@ a:not([class]) {
   }
 }
 
+blockquote{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 code {
   font-family: $mono-font-family;
   font-size: 12px;
