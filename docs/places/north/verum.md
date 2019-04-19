@@ -9,7 +9,7 @@ nav_order: 1
 
 # Verum
 
-![](/doloria/img/verum.jpg)
+![](/doloria/img/verum.svg)
 
 Verum is the largest settlement in Doloria and the main hub of government, trade and religion on the continent. Situated near the centre of the landmass, most roads across the land pass through Verum and many distant and varied races call it home.
 
