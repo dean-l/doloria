@@ -1,15 +1,13 @@
 ---
 layout: home
 title: Verum
-map: '/doloria/img/Verum.png'
+map: '/doloria/img/Verum.svg'
 parent: Northern Doloria
 grand_parent: Places
 nav_order: 1
 ---
 
 # Verum
-
-![](/doloria/img/verum.svg)
 
 Verum is the largest settlement in Doloria and the main hub of government, trade and religion on the continent. Situated near the centre of the landmass, most roads across the land pass through Verum and many distant and varied races call it home.
 
@@ -19,7 +17,7 @@ Verum is the largest settlement in Doloria and the main hub of government, trade
 * Edmund Nashendevallene – Male Gnome – Civis Arcanum
 * Magus Dorothy “Dot” Merriweather – Female Human – Head of Civis Arcanum
 * Duke Chesterfield Clemens – Male Human – Head of The Hounds
-* Ms Rock Hard - Female Dwarf - Potter Extraordinaire
+* Yennak Rockhard - Female Dwarf - Potter Extraordinaire
 
 ## Taverns and Entertainment
 
