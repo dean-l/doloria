@@ -15,17 +15,17 @@ Located on the outskirts of Verum, the Volkzauber Academy was created by a local
 At present, Civis Arcanum continue to run the school for wizards and sorcerers looking to control or improve their abilities. The academy is divided into 4 Schools:
 
 School of Charm 
-– Illusion and Enchantment
+- Illusion and Enchantment
 - Magus Gix Quazzatanneron - Male Gnome
 
 School of Creation 
-– Transmutation and Necromancy
+- Transmutation and Necromancy
 - Magus Leir Prenoria - Female High Elf
 
 School of Power 
-– Abjuration and Evocation
+- Abjuration and Evocation
 - Magus Gertrude Finknel - Female Human
 
 School of Knowing 
-– Divination and Conjuration
+- Divination and Conjuration
 - Magus Wisely - Male Tiefling
