@@ -2,8 +2,8 @@
 layout: map
 title: Verum
 map: '/doloria/img/Verum.svg'
-map_height: 523.04871
-map_width: 576.47595
+map_height: 523
+map_width: 577
 parent: Northern Doloria
 grand_parent: Places
 nav_order: 1
