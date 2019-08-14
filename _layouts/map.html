@@ -40,11 +40,11 @@
             <div id="mapid" style="z-index: 50;"></div>
             <script>
 
-              document.getElementById("mapid").style.height = "{{ frameHeight() }}px";
-
               function frameHeight(){
                 return ("{{ page.map_height | number }}"/"{{ page.map_width | number }}")*936;
               }
+
+              document.getElementById("mapid").style.height = frameHeight() + "px";
 
               var bounds = [[0,0], [ frameHeight() ,936]];
 
