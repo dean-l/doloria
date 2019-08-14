@@ -37,10 +37,10 @@
         </div>
       </div>
       <div class="main-content">
-            <div id="mapid" style="height: 850px; z-index: 50;"></div>
+            <div id="mapid" style="height: {{ (page.map_height/page.map_width)*936 | number }}px; z-index: 50;"></div>
             <script>
 
-                    var bounds = [[0,0], [850,936]];
+                    var bounds = [[0,0], ["{{ (page.map_height/page.map_width)*936 | number }}",936]];
 
                     var mymap = L.map('mapid', {
                         crs: L.CRS.Simple,
