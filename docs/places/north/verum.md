@@ -27,6 +27,7 @@ Verum is the largest settlement in Doloria and the main hub of government, trade
 * Parson’s Boarding House – Trade Ward – Annabel Parson – Female Human
 * The Sparrow Lodge – Inner City – Requires Membership
 * Firetown Taproom and Cellar – Firetown – Caspar Limettenerandor – Male Gnome
+* The Marquee - Allen and Huxley - Male Human and Male Tabaxi
 
 ## Shops
 
