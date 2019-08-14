@@ -37,8 +37,10 @@
         </div>
       </div>
       <div class="main-content">
-            <div id="mapid" style="height: {{ frameHeight() }}px; z-index: 50;"></div>
+            <div id="mapid" style="z-index: 50;"></div>
             <script>
+
+              document.getElementById("mapid").style.height = "{{ frameHeight() }}px";
 
               function frameHeight(){
                 return ("{{ page.map_height | number }}"/"{{ page.map_width | number }}")*936;
