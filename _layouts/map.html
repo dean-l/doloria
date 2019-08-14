@@ -37,23 +37,27 @@
         </div>
       </div>
       <div class="main-content">
-            <div id="mapid" style="height: {{ (page.map_height/page.map_width)*936 | number }}px; z-index: 50;"></div>
+            <div id="mapid" style="height: {{ frameHeight() }}px; z-index: 50;"></div>
             <script>
 
-                    var bounds = [[0,0], [ ("{{ page.map_height | number }}"/"{{ page.map_width | number }}")*936 ,936]];
+              function frameHeight(){
+                return ("{{ page.map_height | number }}"/"{{ page.map_width | number }}")*936;
+              }
 
-                    var mymap = L.map('mapid', {
-                        crs: L.CRS.Simple,
-                        //minZoom: -2,
-                        maxBounds: bounds,
-                        maxBoundsViscosity: 1.0
-                    }); //.setView([51.505, -0.09], 13);
-                
-	                var image = L.imageOverlay("{{ page.map }}", bounds).addTo(mymap);
+              var bounds = [[0,0], [ frameHeight() ,936]];
 
-	                mymap.fitBounds(bounds);
-                
-                </script>
+              var mymap = L.map('mapid', {
+                  crs: L.CRS.Simple,
+                  //minZoom: -2,
+                  maxBounds: bounds,
+                  maxBoundsViscosity: 1.0
+              }); //.setView([51.505, -0.09], 13);
+            
+              var image = L.imageOverlay("{{ page.map }}", bounds).addTo(mymap);
+
+              mymap.fitBounds(bounds);
+            
+            </script>
         {% unless page.url == "/" %}
           {% if page.parent %}
             <nav class="breadcrumb-nav">
