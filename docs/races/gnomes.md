@@ -21,3 +21,4 @@ The Vitruvians are the ruling power in gnomish society, originally descended fro
 | Vrenderronsianall | Crossbows |
 | Xulemoniffenazzar | Antiques and appraisal |
 | Nashendevallene | Investigation |
+| Zammitsponderdunn | Firearms |
