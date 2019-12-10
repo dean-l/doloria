@@ -17,13 +17,14 @@ Inverhölm is a trade and commerce town at the intersection of the Verum and Mur
 * Sudak – Merchant – Male Dwarf
 * Harn – Mercenary – Male Dwarf
 * Martin – Mercenary – Male Human
-* Iufyn Bannelar - - Male Jungle Elf
+* Iufyn Bannelar - Male Jungle Elf
+* Kinther ShouValmanco - Tinkerer - Gnome Male
 
 ## Taverns & Entertainment
 
 * The Cross – Alistair Cavendish – Male Human
 * Black Rose – Orianna – Female Drow
-* The Hammer and Tong – Bulwar – Golaith
+* The Hammer and Tong – Bulwar and Balt – Half-Ogre and Human
 
 ## Shops
 
