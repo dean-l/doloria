@@ -16,11 +16,7 @@ Over the centuries, the dwarven city has welcomed new inhabitants of all races, 
 
 The city is 
 
-![](/doloria/img/thrum_granite.png)
-
-![](/doloria/img/thrum_silver.png)
-
-![](/doloria/img/thrum_ruby.png)
+| ![](/doloria/img/thrum_granite.png) | ![](/doloria/img/thrum_silver.png)| ![](/doloria/img/thrum_ruby.png)
 
 ## NPC’s
 
