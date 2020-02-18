@@ -24,12 +24,14 @@ Verum is the largest settlement in Doloria and the main hub of government, trade
 * Quaestor Andurius - Quaestor of the Assembly of Tributes
 
 ### The Writers
+
 * E. B. Honeyblossom
 * Povdun Thuringen
 * Immak Al-Razminin
 * Fauntleroy St Splitt
 
 ### Royal Palace
+
 * Prince Jersten Fairchild
 * Commander Ernest Levenwick - Confederate Guard
 

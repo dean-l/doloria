@@ -24,12 +24,18 @@ The city is
 
 ## NPC’s
 
-
+* Mereiele Aradon - Trader
 
 ## Taverns and Entertainment
 
-
+* Southey's Rest - Morris Southey - Traveller friendly
+* The Rare Roc - Harbek Baelnar - Closest to the trade floor
+* Thrumek Amadram - Daermiir Wolvar - Low class establishment
 
 ## Shops
 
+* Trade floor - Gold/silver/precious metal ingots, raw gems, ore
+* The Artifactory - Relics, trinkets, rare weapons - Bannum Ferrek
 * 
+
+Bromdohr Rogath, Darmar Erag, Ingla Roksana, Bromkyl Lokara, Bhaldain Zebel
