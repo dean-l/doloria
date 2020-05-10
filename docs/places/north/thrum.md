@@ -32,6 +32,5 @@ The city is
 
 * Trade floor - Gold/silver/precious metal ingots, raw gems, ore
 * The Artifactory - Relics, trinkets, rare weapons - Bannum Ferrek
-* 
 
 Bromdohr Rogath, Darmar Erag, Ingla Roksana, Bromkyl Lokara, Bhaldain Zebel
