@@ -2,7 +2,7 @@
 layout: default
 title: The Prince
 nav_order: 1
-parent: Peoples
+parent: People
 ---
 
 # The Price
