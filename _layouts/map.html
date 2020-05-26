@@ -57,9 +57,9 @@
             
               var image = L.imageOverlay("{{ page.map }}", bounds).addTo(mymap);
 
-              mymap.fitBounds(bounds);
-
               L.marker([10, 10]).addTo(mymap);
+
+              mymap.fitBounds(bounds);         
 
               /*
               "{{ page.markers }}".forEach(element => {
