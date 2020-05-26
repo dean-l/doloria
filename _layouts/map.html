@@ -59,10 +59,14 @@
 
               mymap.fitBounds(bounds);
 
+              L.marker([10, 10]).addTo(mymap);
+
+              /*
               "{{ page.markers }}".forEach(element => {
                 var marker = L.marker([element[2], element[3]], { title: element[0]});
                 marker.addTo(mymap);
               });
+              */
             
             </script>
         {% unless page.url == "/" %}
