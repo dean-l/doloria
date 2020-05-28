@@ -9,7 +9,9 @@
     "stylelint": "^9.10.1",
     "stylelint-config-primer": "^3.0.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "jekyll": "^3.0.0-beta1"
+  },
   "scripts": {
     "test": "stylelint '**/*.scss'"
   }
