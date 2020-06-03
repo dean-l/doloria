@@ -54,16 +54,24 @@
                   maxBounds: bounds,
                   maxBoundsViscosity: 1.0
               }); //.setView([51.505, -0.09], 13);
+
+              var myIcon = L.icon({
+                iconUrl: './img/marker.png',
+                //iconUrl: './img/dot.png',
+                iconSize: [50, 50],
+              });
             
               var image = L.imageOverlay("{{ page.map }}", bounds).addTo(mymap);
-              //var markers = JSON.parse("{{ page.markers.len }}");
-              //markers.forEach(element => {
-              //  console.log(element);
-              //  var marker = L.marker([element[2], element[3]], { title: element[0]});
-              //  marker.addTo(mymap);
-              //});
+              var markers = deserialise("{{ page.markers }}");
+              markers.forEach(element => {
+                console.log(element);
+                var marker = L.marker([element[2], element[3]], { title: element[0], icon: myIcon});
+                marker.addTo(mymap).on('click', function() {
+                  window.location.href = element[1];
+                });
+              });
 
-              mymap.fitBounds(bounds);         
+              mymap.fitBounds(bounds);  
             
             </script>
         {% unless page.url == "/" %}

@@ -12,7 +12,7 @@ nav_order: 1
 
 The Royal Hounds and Hunters of the Duchy of Clemens, more commonly referred to as simply The Hounds is an organisation of hunters and trackers working closely with the Triumvirate to pursue and capture outlawed mages for trial.
 
-The current leader of the Hounds and the Duchy of Clemens is Content Not Found: duke-chester-clemens, currently in his third year of the position. His father, the late Duke Bertram Alistair Clemens was fatally injured by the outlawed mage Ollphest while attempting his capture. Ollphest escaped into the wilderness and the new Duke and his brothers were left to lead the family after the death of his father.
+The current leader of the Hounds and the Duchy of Clemens is Duke Chesterfield Clemens, currently in his third year of the position. His father, the late Duke Bertram Alistair Clemens was fatally injured by the outlawed mage Ollphest while attempting his capture. Ollphest escaped into the wilderness and the new Duke and his brothers were left to lead the family after the death of his father.
 
 The Hounds operate out of Clemensworth, the family estate several miles east of Verum and have barracks in the capital and in most major settlements.
 
