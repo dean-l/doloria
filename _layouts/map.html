@@ -57,6 +57,7 @@
 
               var myIcon = L.icon({
                 iconUrl: './img/marker.png',
+                // DEBUG: Test Icon
                 //iconUrl: './img/dot.png',
                 iconSize: [50, 50],
               });
@@ -72,6 +73,9 @@
               });
 
               mymap.fitBounds(bounds);  
+
+              // DEBUG: Lat-Long alert
+              //mymap.on('click', function(ev) { alert(ev.latlng); })
             
             </script>
         {% unless page.url == "/" %}
