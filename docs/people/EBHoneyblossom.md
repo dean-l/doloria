@@ -1,3 +1,12 @@
+---
+layout: default
+title: The Prince
+nav_order: 1
+parent: People
+---
+
+#E.B.Honeyblossom
+
 A romance author who writes in the magical realism style.
 
 Favourite author of Carmichael.
