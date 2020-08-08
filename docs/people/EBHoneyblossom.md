@@ -1,8 +1,8 @@
 ---
 layout: default
-title: The Prince
+title: E.B.Honeyblossom
 nav_order: 1
-parent: E.B.Honeyblossom
+parent: People
 ---
 
 #E.B.Honeyblossom
