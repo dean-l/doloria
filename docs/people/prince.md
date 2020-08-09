@@ -8,3 +8,5 @@ parent: People
 # The Prince
 
 What a nerd
+
+![](/doloria/img/yersten.jpeg)
