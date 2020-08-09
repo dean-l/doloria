@@ -15,3 +15,5 @@ The slender towers of the High Elven city Bel’Shanaar rise effortlessly from t
 While they may be found in towns and cities across the realm, Bel’Shanaar is the only official High Elf city. The surrounding mountains are dotted with pristine gardens and winding carved stone and marble paths, connecting the sprawl of homesteads, artisan schools and various other Elven retreats.
 
 High above floats the Vaulted Court, both the political and physical seat of power in the region.
+
+![](/doloria/img/BelShanaar.png)

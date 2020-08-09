@@ -17,4 +17,4 @@ Currently spending a lot of time at The Lodge, but it's unknown if she's living 
 
 Her bodyguard is incredibly capable Annie.
 
-![Isabel Allende, Illustration by Jillian Tamaki](/doloria/img/EBHoneyblossom.jpg)
+![](/doloria/img/EBHB.jpeg)
