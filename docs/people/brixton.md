@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brixton Dapper, Adventurer extrordinaire
-nav_order: 3
+nav_order: 1
 parent: People
 ---
 
