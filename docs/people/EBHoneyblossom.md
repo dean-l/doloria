@@ -5,7 +5,7 @@ nav_order: 2
 parent: People
 ---
 
-#E.B.Honeyblossom
+# E.B.Honeyblossom
 
 A romance author who writes in the magical realism style.
 
