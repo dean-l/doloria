@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Yasten, Prince of ????
+title: Prince Yersten Fairchild, Fairchild Royal Family
 nav_order: 1
 parent: People
 ---
 
-# The Price
+# The Prince
+
 What a nerd
