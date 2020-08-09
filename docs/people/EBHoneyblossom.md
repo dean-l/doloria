@@ -14,3 +14,5 @@ Favourite author of Carmichael.
 Originally met the gang when they crashed a party she was attending.
 
 Her bodyguard is Annie.
+
+![Isabel Allende, Illustration by Jillian Tamaki](/doloria/img/EBHoneyblossom.jpg)
