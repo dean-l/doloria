@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E.B.Honeyblossom
+title: E.B.Honeyblossom, Author Extrodinare
 nav_order: 2
 parent: People
 ---

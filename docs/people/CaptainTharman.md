@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Captain Tharman
+title: Tharman, Guard Captain
 nav_order: 3
 parent: People
 ---
