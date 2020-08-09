@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Immak, Horror Author
+title: Immak Al'Razminnin, Horror Author
 nav_order: 5
 parent: People
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Tharman, Guard Captain
+title: Tharman Bovril, Guard Captain
 nav_order: 3
 parent: People
 ---
 
-# Guard Captain Tharman
+# Guard Captain Tharman Bovril
 
 Very chill guard captain in Doloria.
 

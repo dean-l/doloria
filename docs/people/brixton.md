@@ -7,4 +7,4 @@ parent: People
 
 # Brixton Dapper
 
-![](/doloria/img/brixton.jpg)
+![](/doloria/img/brixton.jpeg)
