@@ -7,7 +7,7 @@ parent: People
 
 # Immak Al'Razminnin
 
-As both a halfling and a little girl Immak is extordinarily small and cute. Although the sweetest little girl that could possibly be she holds a fasination for all things dark and macabre.
+As both a gnome and a little girl Immak is extordinarily small and cute. Although the sweetest little girl that could possibly be she holds a fasination for all things dark and macabre.
 
 Her break out novel "Transendance" (a story from the perspective of a tree that's being burnt down) was so horrifying that elven society had it banned.
 
