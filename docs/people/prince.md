@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Prince
+title: Yasten, Prince of ????
 nav_order: 1
 parent: People
 ---
