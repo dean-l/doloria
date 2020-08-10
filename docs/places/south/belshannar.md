@@ -16,4 +16,4 @@ While they may be found in towns and cities across the realm, Bel’Shanaar is t
 
 High above floats the Vaulted Court, both the political and physical seat of power in the region.
 
-![](/doloria/img/BelShanaar.png)
+![](/doloria/img/BelShannar.png)
