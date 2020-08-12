@@ -17,3 +17,12 @@ While they may be found in towns and cities across the realm, Bel’Shanaar is t
 High above floats the Vaulted Court, both the political and physical seat of power in the region.
 
 ![](/doloria/img/belshanaar.png)
+
+## NPC's
+
+* Representative Aeirnan Craign, Elven Druid Vaulted Court Representative
+
+## Taverns and Entertainment
+
+* The House of Summers Bitter Flight (Summers) - Very high end entertainment es
+* Lingering Sweet Smell of those Forgotten Memories (Sweet) - 
