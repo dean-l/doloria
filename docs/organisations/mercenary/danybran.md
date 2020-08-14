@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Al'Diarmaid Dannybran
+title: Al'Bizaantarran Dannybran
 parent: Mercenary Groups
 grand_parent: Organisations
 nav_order: 1
 ---
 
-# Al'Diarmaid Danybran
+# Al'Bizaantarran Danybran
 
-Toting themselves as the voice of the common man, Al'Diarmaid Danybran are an extremist organisation of fighters, angry with the bureocracy and politics of Doloria. willing to take the law into their own hands and dispense justice as they see fit.
+Toting themselves as the voice of the common man, Al'Bizaantarran Danybran are an extremist organisation of fighters, angry with the bureocracy and politics of Doloria. willing to take the law into their own hands and dispense justice as they see fit.
 
 ## History and Operation
 
-After the Capital War, most Puritans conceded and were reassured in the Arcanus Legis that mages would from now on be held accountable for their actions. However, a few saw their defeat as unjust and a result of corrupt authorities taking advantage of the common folk and would not give up their fight. Lead by a zealous and relatable leader Diarmaid, they formed a citizen's militia to take control and destroy the oppressive and controlling government, nobility and upper class.
+After the Capital War, most Puritans conceded and were reassured in the Arcanus Legis that mages would from now on be held accountable for their actions. However, a few saw their defeat as unjust and a result of corrupt authorities taking advantage of the common folk and would not give up their fight. Lead by a zealous and relatable gnomish leader Gorezz Al'Bizaantarran, they formed a citizen's militia to take control and destroy the oppressive and controlling government, nobility and upper class. They take their name as a homage to their founder and his instrument of freedom, and keep the gnomish surname as an insult to the establishment
 
 ## The Danybran
 
