@@ -18,11 +18,8 @@ The Hounds operate out of Clemensworth, the family estate several miles east of 
 
 The Clemens brothers are:
 
-* Duke Chesterfield Bertram Clemens
-* Earl Cadbury Byron Clemens
-* Earl Clifford Bartholemew Clemens
-* Earl Chauncey Burton Clemens
-* Earl Cornelius Basil Clemens
+| Duke Chesterfield Bertram Clemens | Earl Cadbury Byron Clemens | Earl Clifford Bartholemew Clemens | Earl Chauncey Burton Clemens |  Earl Cornelius Basil Clemens |
+| ![](/doloria/img/chester.jpeg) | ![](/doloria/img/cadbury.jpeg) | ![](/doloria/img/clifford.jpeg) | ![](/doloria/img/chauncey.jpeg) | ![](/doloria/img/cornelius.jpeg) |
 
 ## History and Operation
 

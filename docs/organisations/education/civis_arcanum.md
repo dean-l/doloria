@@ -13,3 +13,7 @@ Civis Arcanum is the order created in the Arcanus Legis to represent and demargi
 ## Arcanus Legis
 
 Arcanus Legis is the legislation created after the War for governing the use of magic in Doloria. It outlines proper judical proceedings for magical and nonmagical persons by the Assembly and the operation and process of Civis Arcanum
+
+### Head of Civis Arcanum, Magus Dorothy “Dot” Merriweather
+
+![](/doloria/img/dot.jpeg)
