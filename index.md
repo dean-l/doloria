@@ -1,7 +1,7 @@
 ---
 layout: map
 title: Main
-map: 'img/Doloria.svg'
+map: 'img/doloria.png'
 map_width: 5314.2217
 map_height: 4049.5718
 markers: "|Clemensworth,docs/places/east/clemensworth,373,497
