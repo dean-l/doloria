@@ -14,7 +14,8 @@ Thrum is the largest dwarven city in Doloria and possibly the oldest settlement 
 
 Over the centuries, the dwarven city has welcomed new inhabitants of all races, usually those searching for fortune and wealth in the precious stone and gem trade that Thrum is famous for.
 
-The city is 
+The city is a maze of curved stone streets and cut rockfaces. Crowds form and dissolve as every person makes their own way around the city alone. Dwarven prayers carved in stone adorn the shopfronts and alleyways and are the only way to tell what is where in the city. A prayer asking Karantuk, the god of the earth for his finest ores and guidance in creating the sharpest edge, may indicate a blacksmith or similar balde worker, but only a inquiry can confirm it. Given the age of the city, construction is a constant process in Thrum as supporting structures and buildings are reinforced and changed with incredible efficiency. A stairwell up a old and dilapidated alley might be walled over with a brand new bridge within the week. 
+
 
 | ![](/doloria/img/thrum_granite.png) | ![](/doloria/img/thrum_silver.png)| ![](/doloria/img/thrum_ruby.png)
 

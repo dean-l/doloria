@@ -9,10 +9,10 @@ parent: Religion
 
 ## Human gods
 
-Pelor | God of Light | Gold Dragons
-Ioun | Goddess of Knowledge | Brass Dragons
-Melora | Goddess of Nature | Copper Dragons
-Bahamut | God of Life | Silver Dragons
+Pelor | God of Light | Red Dragons
+Ioun | Goddess of Knowledge | Black Dragons
+Melora | Goddess of Nature | Blue Dragons
+Bahamut | God of Life | Green Dragons
 
 Bane | God of War | Red Dragons
 Zehir | God of Death | Green Dragons
