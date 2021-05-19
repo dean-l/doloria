@@ -16,7 +16,7 @@ Gnomes were a subterranean race for most of Doloria’s history and lived in cav
 
 With volatile storms on the surface a constant threat, the tunnels into the city start far out to avoid the worst of the weather, some streching for miles in near darkness. Above the city stand the lightning towers, grand iron structures designed to attract the powerful electrical energy and transfer it down to the city below.
 
-Galivox and most of gnomish society is governed by the Vitruvians and other high ranking families in small committees, each tasked to govern an aspect of the local society, such as education, farming, law and order.
+Galivox and most of gnomish society is governed by the Vitruvians and other high ranking families in small committees, each tasked to govern an aspect of the local society, such as education, farming, law and order. The city is built like spokes of a wheel, with major sectors representing general topics, branching into more specific families and industries outward.
 
 ## NPC’s
 
