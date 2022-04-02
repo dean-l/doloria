@@ -16,6 +16,9 @@ nav_order: 7
 Far to the north, at the frozen edge of the Ulkan Lok stands the independant city of Khorhandis. Home to most drow in Doloria and refugees form all over, Knorhandis is varied in culture and influence, but holds a strong traditional leadership within the White Palace.
 
 ## NPC’s
+* Civis Arcanum, te' Erantir - Marik Kirin - Female Dwarf
+* White Palace, Goldven - Lord Sabal Vrinn - Male Drow
+* The Outflow - Skrul - Male Human
 
 ## Taverns and Entertainment
 
@@ -28,4 +31,4 @@ Far to the north, at the frozen edge of the Ulkan Lok stands the independant cit
 
 * Silvermoon, te' Bohrin - Theoban Kola - Male Drow
 * Weatherford's, Carriage End - Antique Shop
-* Fountain of Desires, Goldven - Magic Shop
+* Fountain of Desires, Goldven - Magic Shop - Ivin Geord
