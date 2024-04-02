@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <link rel="stylesheet" href="/leaflet/leaflet.css">
+    <script type="text/javascript" src="/leaflet/leaflet.js"></script>
+</head>
+<body>
+    <div id="mapid" style="z-index: 50; width: 130vh; height: 95vh;"></div>
+    <script>
+      //document.getElementById("mapid").style.height = frameHeight() + "px";
+
+      var bounds = [[0,0], [ document.getElementById("mapid").offsetHeight, document.getElementById("mapid").offsetWidth]];
+
+      var mymap = L.map('mapid', {
+          crs: L.CRS.Simple,
+          //minZoom: -2,
+          maxBounds: bounds,
+          maxBoundsViscosity: 1.0
+      }); //.setView([51.505, -0.09], 13);
+
+      var myIcon = L.icon({
+        iconUrl: './img/marker.png',
+        // DEBUG: Test Icon
+        //iconUrl: './img/dot.png',
+        iconSize: [50, 50],
+      });
+    
+      var image = L.imageOverlay('img/doloria.png', bounds).addTo(mymap);
+
+      mymap.fitBounds(bounds);  
+
+      // DEBUG: Lat-Long alert
+      //mymap.on('click', function(ev) { alert(ev.latlng); })
+    
+    </script>
+</body>
+</html>
